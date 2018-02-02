@@ -25,5 +25,5 @@ function forLoop(array) {
    
    do {
      array.pop()
-   } while
+   } while ()
  }
