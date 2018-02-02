@@ -13,6 +13,6 @@ function forLoop(array) {
    let countdown = n;
    
    while(countdown > 0) {
-     console.log()
+     console.log(--)
    }
  }
