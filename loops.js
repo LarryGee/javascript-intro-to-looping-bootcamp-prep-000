@@ -17,3 +17,7 @@ function forLoop(array) {
    }
    return "done";
  }
+ 
+ function doWhileLoop(array) {
+   
+ }
